@@ -1,0 +1,158 @@
+[
+  {
+    "id" : 1,
+    "brand": "Seat"
+  },
+  {
+    "id" : 2,
+    "brand": "Renault"
+  },
+  {
+    "id": 3,
+    "brand": "Peugeot"
+  },
+  {
+    "id" : 4,
+    "brand": "Dacia"
+  },
+  {
+    "id": 5,
+    "brand": "Citroën"
+  },
+  {
+    "id": 6,
+    "brand": "Opel"
+  },
+  {
+    "id": 7,
+    "brand": "Alfa Romeo"
+  },
+  {
+    "id": 8,
+    "brand": "Škoda"
+  },
+  {
+    "id": 9,
+    "brand": "Chevrolet"
+  },
+  {
+    "id": 10,
+    "brand": "Porsche"
+  },
+  {
+    "id": 11,
+    "brand": "Honda"
+  },
+  {
+    "id": 12,
+    "brand": "Subaru"
+  },
+  {
+    "id": 13,
+    "brand": "Mazda"
+  },
+  {
+    "id": 14,
+    "brand": "Mitsubishi"
+  },
+  {
+    "id": 15,
+    "brand": "Lexus"
+  },
+  {
+    "id": 16,
+    "brand": "Toyota"
+  },
+  {
+    "id": 17,
+    "brand": "BMW"
+  },
+  {
+    "id": 18,
+    "brand": "Volkswagen"
+  },
+  {
+    "id": 19,
+    "brand": "Suzuki"
+  },
+  {
+    "id": 20,
+    "brand": "Mercedes-Benz"
+  },
+  {
+    "id": 21,
+    "brand": "Saab"
+  },
+  {
+    "id": 22,
+    "brand": "Audi"
+  },
+  {
+    "id": 23,
+    "brand": "Kia"
+  },
+  {
+    "id": 24,
+    "brand": "Land Rover"
+  },
+  {
+    "id": 25,
+    "brand": "Dodge"
+  },
+  {
+    "id": 26,
+    "brand": "Chrysler"
+  },
+  {
+    "id": 27,
+    "brand": "Ford"
+  },
+  {
+    "id": 28,"brand": "Hummer"
+  },
+  {
+    "id": 29,
+    "brand": "Hyundai"
+  },
+  {
+    "id": 30,
+    "brand": "Infiniti"
+  },
+  {
+    "id": 31,
+    "brand": "Jaguar"
+  },
+  {
+    "id": 32,
+    "brand": "Jeep"
+  },
+  {
+    "id": 33,
+    "brand": "Nissan"
+  },
+  {
+    "id": 34,
+    "brand": "Volvo"
+  },
+  {
+    "id": 35,
+    "brand": "Daewoo"
+  },
+  {
+    "id": 36,
+    "brand": "Fiat"
+  },
+  {
+    "id": 37,
+    "brand": "MINI"
+  },
+  {
+    "id": 38,
+    "brand": "Rover"
+  },
+  {
+    "id": 39,
+    "brand": "Smart"
+  }
+]
+

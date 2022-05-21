@@ -1,0 +1,4489 @@
+[
+  {
+    "brand_id" : 1,
+    "name": "Alhambra"
+
+  },
+  {
+    "brand_id" : 1,
+    "name": "Altea"
+
+  },
+  {
+    "brand_id" : 1,
+    "name": "Altea XL"
+
+  },
+  {
+    "brand_id" : 1,
+    "name": "Arosa"
+
+  },
+  {
+    "brand_id" : 1,
+    "name": "Cordoba"
+
+  },
+  {
+    "brand_id" : 1,
+    "name": "Cordoba Vario"
+
+  },
+  {
+    "brand_id" : 1,
+    "name": "Exeo"
+
+  },
+  {
+    "brand_id" : 1,
+    "name": "Ibiza"
+
+  },
+  {
+    "brand_id" : 1,
+    "name": "Ibiza ST"
+
+  },
+  {
+    "brand_id" : 1,
+    "name": "Exeo ST"
+
+  },
+  {
+    "brand_id" : 1,
+    "name": "Leon"
+
+  },
+  {
+    "brand_id" : 1,
+    "name": "Leon ST"
+
+  },
+  {
+    "brand_id" : 1,
+    "name": "Inca"
+
+  },
+  {
+    "brand_id" : 1,
+    "name": "Alhambra"
+
+  },
+  {
+    "brand_id" : 1,
+    "name": "Mii"
+
+  },
+  {
+    "brand_id" : 1,
+    "name": "Toledo"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Captur"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Clio"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Clio Grandtour"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Espace"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Express"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Fluence"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Grand Espace"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Grand Modus"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Grand Scenic"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Kadjar"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Kangoo"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Kangoo Express"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Koleos"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Laguna"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Laguna Grandtour"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Latitude"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Mascott"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Mégane"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Mégane CC"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Mégane Combi"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Mégane Grandtour"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Mégane Coupé"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Mégane Scénic"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Scénic"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Talisman"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Talisman Grandtour"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Thalia"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Twingo"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Wind"
+
+  },
+  {
+    "brand_id" : 2,
+    "name": "Zoé"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "1007"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "107"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "106"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "108"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "2008"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "205"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "1007"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "205 Cabrio"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "206"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "206 CC"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "206 SW"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "207"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "207 CC"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "207 SW"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "306"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "307"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "307 CC"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "307 SW"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "308"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "308 CC"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "308 SW"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "309"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "4007"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "4008"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "405"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "406"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "407"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "407 SW"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "5008"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "508"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "508 SW"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "605"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "806"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "807"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "RCZ"
+
+  },
+  {
+    "brand_id" : 3,
+    "name": "Bipper"
+
+  },
+  {
+    "brand_id" : 4,
+    "name": "Dokker"
+
+  },
+  {
+    "brand_id" : 4,
+    "name": "Duster"
+
+  },
+  {
+    "brand_id" : 4,
+    "name": "Lodgy"
+
+  },
+  {
+    "brand_id" : 4,
+    "name": "Logan"
+
+  },
+  {
+    "brand_id" : 4,
+    "name": "Logan MCV"
+
+  },
+  {
+    "brand_id" : 4,
+    "name": "Logan Van"
+
+  },
+  {
+    "brand_id" : 4,
+    "name": "Sandero"
+
+  },
+  {
+    "brand_id" : 4,
+    "name": "Solenza"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "Berlingo"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "C-Crosser"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "C-Elissée"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "C-Zero"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "Berlingo"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "C1"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "C2"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "C3"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "C3 Picasso"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "C4"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "C4 Aircross"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "C4 Cactus"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "C4 Coupé"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "C4 Grand Picasso"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "C4 Sedan"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "C5"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "C5 Break"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "C5 Tourer"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "C6"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "C8"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "DS3"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "DS4"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "DS5"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "Evasion"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "Jumper"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "Saxo"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "Nemo"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "Xantia"
+
+  },
+  {
+    "brand_id" : 5,
+    "name": "Xsara"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Agila"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Ampera"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Astra"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Astra cabrio"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Astra caravan"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Astra coupé"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Calibra"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Campo"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Cascada"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Corsa"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Frontera"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Insignia"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Insignia kombi"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Kadett"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Meriva"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Mokka"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Movano"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Omega"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Signum"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Vectra"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Vectra Caravan"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Vivaro"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Vivaro Kombi"
+
+  },
+  {
+    "brand_id" : 6,
+    "name": "Zafira"
+
+  },
+  {
+    "brand_id" : 7,
+    "name": "145"
+
+  },
+  {
+    "brand_id" : 7,
+    "name": "146"
+
+  },
+  {
+    "brand_id" : 7,
+    "name": "155"
+
+  },
+  {
+    "brand_id" : 7,
+    "name": "156"
+
+  },
+  {
+    "brand_id" : 7,
+    "name": "156 Sportwagon"
+
+  },
+  {
+    "brand_id" : 7,
+    "name": "159"
+
+  },
+  {
+    "brand_id" : 7,
+    "name": "159 Sportwagon"
+
+  },
+  {
+    "brand_id" : 7,
+    "name": "164"
+
+  },
+  {
+    "brand_id" : 7,
+    "name": "166"
+
+  },
+  {
+    "brand_id" : 7,
+    "name": "4C"
+
+  },
+  {
+    "brand_id" : 7,
+    "name": "Brera"
+
+  },
+  {
+    "brand_id" : 7,
+    "name": "GTV"
+
+  },
+  {
+    "brand_id" : 7,
+    "name": "MiTo"
+
+  },
+  {
+    "brand_id" : 7,
+    "name": "Crosswagon"
+
+  },
+  {
+    "brand_id" : 7,
+    "name": "GT"
+
+  },
+  {
+    "brand_id" : 7,
+    "name": "Spider"
+
+  },
+  {
+    "brand_id" : 7,
+    "name": "Giulia"
+
+  },
+  {
+    "brand_id" : 7,
+    "name": "Giulietta"
+
+  },
+  {
+    "brand_id" : 8,
+    "name": "Favorit"
+
+  },
+  {
+    "brand_id" : 8,
+    "name": "Felicia"
+
+  },
+  {
+    "brand_id" : 8,
+    "name": "Citigo"
+
+  },
+  {
+    "brand_id" : 8,
+    "name": "Fabia"
+
+  },
+  {
+    "brand_id" : 8,
+    "name": "Fabia Combi"
+
+  },
+  {
+    "brand_id" : 8,
+    "name": "Fabia Sedan"
+
+  },
+  {
+    "brand_id" : 8,
+    "name": "Felicia Combi"
+
+  },
+  {
+    "brand_id" : 8,
+    "name": "Octavia Combi"
+
+  },
+  {
+    "brand_id" : 8,
+    "name": "Roomster"
+
+  },
+  {
+    "brand_id" : 8,
+    "name": "Yeti"
+
+  },
+  {
+    "brand_id" : 8,
+    "name": "Rapid"
+
+  },
+  {
+    "brand_id" : 8,
+    "name": "Rapid Spaceback"
+
+  },
+  {
+    "brand_id" : 8,
+    "name": "Superb"
+
+  },
+  {
+    "brand_id" : 8,
+    "name": "Superb Combi"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Alero"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Aveo"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Camaro"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Captiva"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Corvette"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Cruze"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Cruze SW"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Epica"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Equinox"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Evanda"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "HHR"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Kalos"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Lacetti"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Lacetti SW"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Lumina"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Malibu"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Matiz"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Monte Carlo"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Nubira"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Spark"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Suburban"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Tacuma"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Trax"
+
+  },
+  {
+    "brand_id" : 9,
+    "name": "Tahoe"
+
+  },
+  {
+    "brand_id" : 10,
+    "name": "911 Carrera"
+
+  },
+  {
+    "brand_id" : 10,
+    "name": "911 Carrera Cabrio"
+
+  },
+  {
+    "brand_id" : 10,
+    "name": "911 Targa"
+
+  },
+  {
+    "brand_id" : 10,
+    "name": "911 Turbo"
+
+  },
+  {
+    "brand_id" : 10,
+    "name": "924"
+
+  },
+  {
+    "brand_id" : 10,
+    "name": "944"
+
+  },
+  {
+    "brand_id" : 10,
+    "name": "997"
+
+  },
+  {
+    "brand_id" : 10,
+    "name": "Cayenne"
+
+  },
+  {
+    "brand_id" : 10,
+    "name": "Cayman"
+
+  },
+  {
+    "brand_id" : 10,
+    "name": "Macan"
+
+  },
+  {
+    "brand_id" : 10,
+    "name": "Panamera"
+
+  },
+  {
+    "brand_id" : 11,
+    "name": "Accord"
+
+  },
+  {
+    "brand_id" : 11,
+    "name": "Accord Coupé"
+
+  },
+  {
+    "brand_id" : 11,
+    "name": "Accord Tourer"
+
+  },
+  {
+    "brand_id" : 11,
+    "name": "Civic"
+
+  },
+  {
+    "brand_id" : 11,
+    "name": "City"
+
+  },
+  {
+    "brand_id" : 11,
+    "name": "Civic Aerodeck"
+
+  },
+  {
+    "brand_id" : 11,
+    "name": "Civic Coupé"
+
+  },
+  {
+    "brand_id" : 11,
+    "name": "Civic Tourer"
+
+  },
+  {
+    "brand_id" : 11,
+    "name": "Civic Type R"
+
+  },
+  {
+    "brand_id" : 11,
+    "name": "CR-V"
+
+  },
+  {
+    "brand_id" : 11,
+    "name": "CR-X"
+
+  },
+  {
+    "brand_id" : 11,
+    "name": "CR-Z"
+
+  },
+  {
+    "brand_id" : 11,
+    "name": "FR-V"
+
+  },
+  {
+    "brand_id" : 11,
+    "name": "HR-V"
+
+  },
+  {
+    "brand_id" : 11,
+    "name": "Insight"
+
+  },
+  {
+    "brand_id" : 11,
+    "name": "Integra"
+
+  },
+  {
+    "brand_id" : 11,
+    "name": "Jazz"
+
+  },
+  {
+    "brand_id" : 11,
+    "name": "Legend"
+
+  },
+  {
+    "brand_id" : 11,
+    "name": "Prelude"
+
+  },
+  {
+    "brand_id" : 12,
+    "name": "BRZ"
+
+  },
+  {
+    "brand_id" : 12,
+    "name": "Forester"
+
+  },
+  {
+    "brand_id" : 12,
+    "name": "Impreza"
+
+  },
+  {
+    "brand_id" : 12,
+    "name": "Impreza Wagon"
+
+  },
+  {
+    "brand_id" : 12,
+    "name": "Justy"
+
+  },
+  {
+    "brand_id" : 12,
+    "name": "Legacy"
+
+  },
+  {
+    "brand_id" : 12,
+    "name": "Legacy Wagon"
+
+  },
+  {
+    "brand_id" : 12,
+    "name": "Legacy Outback"
+
+  },
+  {
+    "brand_id" : 12,
+    "name": "Levorg"
+
+  },
+  {
+    "brand_id" : 12,
+    "name": "Outback"
+
+  },
+  {
+    "brand_id" : 12,
+    "name": "SVX"
+
+  },
+  {
+    "brand_id" : 12,
+    "name": "Tribeca"
+
+  },
+  {
+    "brand_id" : 12,
+    "name": "Tribeca B9"
+
+  },
+  {
+    "brand_id" : 12,
+    "name": "XV"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "121"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "2"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "3"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "323"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "323 Combi"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "323 Coupé"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "323 F"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "5"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "6"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "6 Combi"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "626"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "626 Combi"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "B-Fighter"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "B2500"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "BT"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "CX-3"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "CX-5"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "CX-7"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "CX-9"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "Demio"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "MPV"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "MX-3"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "MX-5"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "MX-6"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "Premacy"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "RX-7"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "RX-8"
+
+  },
+  {
+    "brand_id" : 13,
+    "name": "Xedox 6"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "3000 GT"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "ASX"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "Carisma"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "Colt"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "Colt CC"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "Eclipse"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "Fuso canter"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "Galant"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "Galant Combi"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "Grandis"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "L200"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "L200 Pick up"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "L200 Pick up Allrad"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "L300"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "Lancer"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "Lancer Combi"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "Lancer Evo"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "Lancer Sportback"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "Outlander"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "Pajero"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "Pajeto Pinin"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "Pajero Pinin Wagon"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "Pajero Sport"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "Pajero Wagon"
+
+  },
+  {
+    "brand_id" : 14,
+    "name": "Space Star"
+
+  },
+  {
+    "brand_id" : 15,
+    "name": "CT"
+
+  },
+  {
+    "brand_id" : 15,
+    "name": "GS"
+
+  },
+  {
+    "brand_id" : 15,
+    "name": "GS 300"
+
+  },
+  {
+    "brand_id" : 15,
+    "name": "GX"
+
+  },
+  {
+    "brand_id" : 15,
+    "name": "IS"
+
+  },
+  {
+    "brand_id" : 15,
+    "name": "IS 200"
+
+  },
+  {
+    "brand_id" : 15,
+    "name": "IS 250 C"
+
+  },
+  {
+    "brand_id" : 15,
+    "name": "IS-F"
+
+  },
+  {
+    "brand_id" : 15,
+    "name": "LS"
+
+  },
+  {
+    "brand_id" : 15,
+    "name": "LX"
+
+  },
+  {
+    "brand_id" : 15,
+    "name": "NX"
+
+  },
+  {
+    "brand_id" : 15,
+    "name": "RC F"
+
+  },
+  {
+    "brand_id" : 15,
+    "name": "RX"
+
+  },
+  {
+    "brand_id" : 15,
+    "name": "RX 300"
+
+  },
+  {
+    "brand_id" : 15,
+    "name": "RX 400h"
+
+  },
+  {
+    "brand_id" : 15,
+    "name": "RX 450h"
+
+  },
+  {
+    "brand_id" : 15,
+    "name": "SC 430"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "4-Runner"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Auris"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Avensis"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Avensis Combi"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Avensis Van Verso"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Aygo"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Camry"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Carina"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Celica"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Corolla"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Corolla Combi"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Corolla sedan"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Corolla Verso"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "FJ Cruiser"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "GT86"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Hiace"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Hiace Van"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Highlander"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Berlingo"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Hilux"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Land Cruiser"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "MR2"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Paseo"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Picnic"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Berlingo"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Prius"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "RAV4"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Sequoia"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Starlet"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Supra"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Tundra"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Urban Cruiser"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Verso"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Yaris"
+
+  },
+  {
+    "brand_id" : 16,
+    "name": "Yaris Verso"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "i3"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "i8"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "M3"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "M4"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "M5"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "M6"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 1"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 1 Cabrio"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 1 Coupé"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 2"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 2 Active Tourer"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 2 Coupé"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 2 Gran Tourer"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 3"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 3 Cabrio"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 3 Compact"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 3 Coupé"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 3 GT"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 3 Touring"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 4"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 4 Cabrio"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 4 Gran Coupé"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 5"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 5 GT"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 5 Touring"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 6"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 6 Cabrio"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 6 Coupé"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 6 Gran Coupé"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 7"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Rad 8 Coupé"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "X1"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "X3"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "X4"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "X5"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "X6"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Z3"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Z3 Coupé"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Z3 Roadster"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Z4"
+
+  },
+  {
+    "brand_id" : 17,
+    "name": "Z4 Roadster"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Amarok"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Beetle"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Bora"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Bora Variant"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Caddy"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Caddy Van"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Life"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "California"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Caravelle"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Crafter"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Crafter Van"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Crafter Kombi"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "CrossTouran"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Eos"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Fox"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Golf"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Golf Cabrio"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Golf Plus"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Golf Sportvan"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Golf Variant"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Jetta"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "LT"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Lupo"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Multivan"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "New Beetle"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "New Beetle Cabrio"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Passat"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Passat Alltrack"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Passat CC"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Passat Variant"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Passat Variant Van"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Phaeton"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Polo"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Polo Van"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Polo Variant"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Scirocco"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Sharan"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "T4"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "T4 Caravelle"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "T4 Multivan"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "T5"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "T5 Caravelle"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "T5 Multivan"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "T5 Transporter Shuttle"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Tiguan"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Touareg"
+
+  },
+
+  {
+    "brand_id" : 18,
+    "name": "Touran"
+
+  },
+  {
+    "brand_id" : 19,
+    "name": "Alto"
+
+  },
+  {
+    "brand_id" : 19,
+    "name": "Baleno"
+
+  },
+  {
+    "brand_id" : 19,
+    "name": "Baleno kombi"
+
+  },
+  {
+    "brand_id" : 19,
+    "name": "Grand Vitara"
+
+  },
+  {
+    "brand_id" : 19,
+    "name": "Grand Vitara XL-7"
+
+  },
+  {
+    "brand_id" : 19,
+    "name": "Ignis"
+
+  },
+  {
+    "brand_id" : 19,
+    "name": "Jimny"
+
+  },
+  {
+    "brand_id" : 19,
+    "name": "Kizashi"
+
+  },
+  {
+    "brand_id" : 19,
+    "name": "Liana"
+
+  },
+  {
+    "brand_id" : 19,
+    "name": "Samurai"
+
+  },
+  {
+    "brand_id" : 19,
+    "name": "Splash"
+
+  },
+  {
+    "brand_id" : 19,
+    "name": "Swift"
+
+  },
+  {
+    "brand_id" : 19,
+    "name": "SX4"
+
+  },
+  {
+    "brand_id" : 19,
+    "name": "SX4 Sedan"
+
+  },
+  {
+    "brand_id" : 19,
+    "name": "Vitara"
+
+  },
+  {
+    "brand_id" : 19,
+    "name": "Wagon R+"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "100 D"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "115"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "124"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "126"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "190"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "190 D"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "190 E"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "200 - 300"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "200 D"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "200 E"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "210 Van"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "210 kombi"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "310 Van"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "310 kombi"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "230 - 300 CE Coupé"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "260 - 560 SE"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "260 - 560 SEL"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "500 - 600 SEC Coupé"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "Trieda A"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "A"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "A L"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "AMG GT"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "Trieda B"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "Trieda C"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "C"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "C Sportcoupé"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "C T"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "Citan"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "CL"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "CL"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "CLA"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "CLC"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "CLK Cabrio"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "CLK Coupé"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "CLS"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "Trieda E"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "E"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "E Cabrio"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "E Coupé"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "E T"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "Trieda G"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "G Cabrio"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "GL"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "GLA"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "GLC"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "GLE"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "GLK"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "Trieda M"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "MB 100"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "Trieda R"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "Trieda S"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "S"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "S Coupé"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "SL"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "SLC"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "SLK"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "SLR"
+
+  },
+  {
+    "brand_id" : 20,
+    "name": "Sprinter"
+
+  },
+  {
+    "brand_id" : 21,
+    "name": "9-3"
+
+  },
+  {
+    "brand_id" : 21,
+    "name": "9-3 Cabriolet"
+
+  },
+  {
+    "brand_id" : 21,
+    "name": "9-3 Coupé"
+
+  },
+  {
+    "brand_id" : 21,
+    "name": "9-3 SportCombi"
+
+  },
+  {
+    "brand_id" : 21,
+    "name": "9-5"
+
+  },
+  {
+    "brand_id" : 21,
+    "name": "9-5 SportCombi"
+
+  },
+  {
+    "brand_id" : 21,
+    "name": "900"
+
+  },
+  {
+    "brand_id" : 21,
+    "name": "900 C"
+
+  },
+  {
+    "brand_id" : 21,
+    "name": "900 C Turbo"
+
+  },
+  {
+    "brand_id" : 21,
+    "name": "9000"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "100"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "100 Avant"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "80"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "80 Avant"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "80 Cabrio"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "90"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "A1"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "A2"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "A3"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "A3 Cabriolet"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "A3 Limuzina"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "A3 Sportback"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "A4"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "A4 Allroad"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "A4 Avant"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "A4 Cabriolet"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "A5"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "A5 Cabriolet"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "A5 Sportback"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "A6"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "A6 Allroad"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "A6 Avant"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "A7"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "A8"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "A8 Long"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "Q3"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "Q5"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "Q7"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "R8"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "RS4 Cabriolet"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "RS4/RS4 Avant"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "RS5"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "RS6 Avant"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "RS7"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "S3/S3 Sportback"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "S4 Cabriolet"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "S4/S4 Avant"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "S5/S5 Cabriolet"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "S6/RS6"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "S7"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "S8"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "SQ5"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "TT Coupé"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "TT Roadster"
+
+  },
+  {
+    "brand_id" : 22,
+    "name": "TTS"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Avella"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Besta"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Carens"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Carnival"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Cee`d"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Cee`d SW"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Cerato"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "K 2500"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Magentis"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Opirus"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Optima"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Picanto"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Pregio"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Pride"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Pro Cee`d"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Rio"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Rio Combi"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Rio sedan"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Sephia"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Shuma"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Sorento"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Soul"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Sportage"
+
+  },
+  {
+    "brand_id" : 23,
+    "name": "Venga"
+
+  },
+  {
+    "brand_id" : 24,
+    "name": "109"
+
+  },
+  {
+    "brand_id" : 24,
+    "name": "Defender"
+
+  },
+  {
+    "brand_id" : 24,
+    "name": "Discovery"
+
+  },
+  {
+    "brand_id" : 24,
+    "name": "Discovery Sport"
+
+  },
+  {
+    "brand_id" : 24,
+    "name": "Freelander"
+
+  },
+  {
+    "brand_id" : 24,
+    "name": "Range Rover"
+
+  },
+  {
+    "brand_id" : 24,
+    "name": "Range Rover Evoque"
+
+  },
+  {
+    "brand_id" : 24,
+    "name": "Range Rover Sport"
+
+  },
+  {
+    "brand_id" : 25,
+    "name": "Avenger"
+
+  },
+  {
+    "brand_id" : 25,
+    "name": "Caliber"
+
+  },
+  {
+    "brand_id" : 25,
+    "name": "Challenger"
+
+  },
+  {
+    "brand_id" : 25,
+    "name": "Charger"
+
+  },
+  {
+    "brand_id" : 25,
+    "name": "Grand Caravan"
+
+  },
+  {
+    "brand_id" : 25,
+    "name": "Journey"
+
+  },
+  {
+    "brand_id" : 25,
+    "name": "Magnum"
+
+  },
+  {
+    "brand_id" : 25,
+    "name": "Nitro"
+
+  },
+  {
+    "brand_id" : 25,
+    "name": "RAM"
+
+  },
+  {
+    "brand_id" : 25,
+    "name": "Stealth"
+
+  },
+  {
+    "brand_id" : 25,
+    "name": "Viper"
+
+  },
+  {
+    "brand_id" : 26,
+    "name": "300 C"
+
+  },
+  {
+    "brand_id" : 26,
+    "name": "300 C Touring"
+
+  },
+  {
+    "brand_id" : 26,
+    "name": "300 M"
+
+  },
+  {
+    "brand_id" : 26,
+    "name": "Crossfire"
+
+  },
+  {
+    "brand_id" : 26,
+    "name": "Grand Voyager"
+
+  },
+  {
+    "brand_id" : 26,
+    "name": "LHS"
+
+  },
+  {
+    "brand_id" : 26,
+    "name": "Neon"
+
+  },
+  {
+    "brand_id" : 26,
+    "name": "Pacifica"
+
+  },
+  {
+    "brand_id" : 26,
+    "name": "Plymouth"
+
+  },
+  {
+    "brand_id" : 26,
+    "name": "PT Cruiser"
+
+  },
+  {
+    "brand_id" : 26,
+    "name": "Sebring"
+
+  },
+  {
+    "brand_id" : 26,
+    "name": "Sebring Convertible"
+
+  },
+  {
+    "brand_id" : 26,
+    "name": "Stratus"
+
+  },
+  {
+    "brand_id" : 26,
+    "name": "Stratus Cabrio"
+
+  },
+  {
+    "brand_id" : 26,
+    "name": "Town & Country"
+
+  },
+  {
+    "brand_id" : 26,
+    "name": "Voyager"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Aerostar"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "B-Max"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "C-Max"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Cortina"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Cougar"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Edge"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Escort"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Escort kombi"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Explorer"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "F-150"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "F-250"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Fiesta"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Focus"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Focus C-Max"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Focus CC"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Focus kombi"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Fusion"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Galaxy"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Grand C-Max"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Ka"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Kuga"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Mondeo"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Mondeo Combi"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Mustang"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Orion"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Puma"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Ranger"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "S-Max"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Sierra"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Street Ka"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Tourneo Connect"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Tourneo Custom"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Transit Bus"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Transit Connect LWB"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Transit Courier"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Transit Custom"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Transit kombi"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Transit Tourneo"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Transit Valnik"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Transit Van"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Transit Van 350"
+
+  },
+  {
+    "brand_id" : 27,
+    "name": "Windstar"
+
+  },
+  {
+    "brand_id" : 28,
+    "name": "H2"
+
+  },
+  {
+    "brand_id" : 28,
+    "name": "H3"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "Berlingo"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "Accent"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "Atos"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "Atos Prime"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "Coupé"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "Elantra"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "Galloper"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "Genesis"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "Getz"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "Grandeur"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "H 350"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "H1"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "H1 Bus"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "H1 Van"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "H200"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "Berlingo"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "i10"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "i20"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "i30"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "i30 CW"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "i40"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "i40 CW"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "ix20"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "ix35"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "ix55"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "Lantra"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "Matrix"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "Santa Fe"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "Sonata"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "Terracan"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "Trajet"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "Tucson"
+
+  },
+  {
+    "brand_id" : 29,
+    "name": "Veloster"
+
+  },
+  {
+    "brand_id" : 30,
+    "name": "EX"
+
+  },
+  {
+    "brand_id" : 30,
+    "name": "FX"
+
+  },
+  {
+    "brand_id" : 30,
+    "name": "G"
+
+  },
+  {
+    "brand_id" : 30,
+    "name": "G Coupé"
+
+  },
+  {
+    "brand_id" : 30,
+    "name": "Berlingo"
+
+  },
+  {
+    "brand_id" : 30,
+    "name": "M"
+
+  },
+  {
+    "brand_id" : 30,
+    "name": "Q"
+
+  },
+  {
+    "brand_id" : 30,
+    "name": "QX"
+
+  },
+  {
+    "brand_id" : 31,
+    "name": "Daimler"
+
+  },
+  {
+    "brand_id" : 31,
+    "name": "F-Pace"
+
+  },
+  {
+    "brand_id" : 31,
+    "name": "F-Type"
+
+  },
+  {
+    "brand_id" : 31,
+    "name": "S-Type"
+
+  },
+  {
+    "brand_id" : 31,
+    "name": "Sovereign"
+
+  },
+  {
+    "brand_id" : 31,
+    "name": "X-Type"
+
+  },
+  {
+    "brand_id" : 31,
+    "name": "X-type Estate"
+
+  },
+  {
+    "brand_id" : 31,
+    "name": "XE"
+
+  },
+  {
+    "brand_id" : 31,
+    "name": "XF"
+
+  },
+  {
+    "brand_id" : 31,
+    "name": "XJ"
+
+  },
+  {
+    "brand_id" : 31,
+    "name": "XJ12"
+
+  },
+  {
+    "brand_id" : 31,
+    "name": "XJ6"
+
+  },
+  {
+    "brand_id" : 31,
+    "name": "XJ8"
+
+  },
+  {
+    "brand_id" : 31,
+    "name": "XJ8"
+
+  },
+  {
+    "brand_id" : 31,
+    "name": "XJR"
+
+  },
+  {
+    "brand_id" : 31,
+    "name": "XK"
+
+  },
+  {
+    "brand_id" : 31,
+    "name": "XK8 Convertible"
+
+  },
+  {
+    "brand_id" : 31,
+    "name": "XKR"
+
+  },
+  {
+    "brand_id" : 31,
+    "name": "XKR Convertible"
+
+  },
+  {
+    "brand_id" : 32,
+    "name": "Cherokee"
+
+  },
+  {
+    "brand_id" : 32,
+    "name": "Commander"
+
+  },
+  {
+    "brand_id" : 32,
+    "name": "Compass"
+
+  },
+  {
+    "brand_id" : 32,
+    "name": "Grand Cherokee"
+
+  },
+  {
+    "brand_id" : 32,
+    "name": "Patriot"
+
+  },
+  {
+    "brand_id" : 32,
+    "name": "Renegade"
+
+  },
+  {
+    "brand_id" : 32,
+    "name": "Wrangler"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "100 NX"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "200 SX"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "350 Z"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "350 Z Roadster"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "370 Z"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Almera"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Almera Tino"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Cabstar E - T"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Cabstar TL2 Valnik"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "e-NV200"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "GT-R"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Insterstar"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Juke"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "King Cab"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Leaf"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Maxima"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Maxima QX"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Berlingo"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Micra"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Murano"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Navara"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Note"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "NP300 Pickup"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "NV200"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "NV400"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Pathfinder"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Patrol"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Patrol GR"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Pickup"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Pixo"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Primastar"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Primastar Combi"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Primera Combi"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Pulsar"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Qashqai"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Serena"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Sunny"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Terrano"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Tiida"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Trade"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "Vanette Cargo"
+
+  },
+  {
+    "brand_id" : 33,
+    "name": "X-Trail"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "240"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "340"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "360"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "460"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "850"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "850 kombi"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "C30"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "C70"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "C70 Cabrio"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "C70 Coupé"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "S40"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "S60"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "S70"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "S80"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "S90"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "V40"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "V50"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "V60"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "V70"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "V90"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "XC60"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "XC70"
+
+  },
+  {
+    "brand_id" : 34,
+    "name": "XC90"
+
+  },
+  {
+    "brand_id" : 35,
+    "name": "Espero"
+
+  },
+  {
+    "brand_id" : 35,
+    "name": "Kalos"
+
+  },
+  {
+    "brand_id" : 35,
+    "name": "Lacetti"
+
+  },
+  {
+    "brand_id" : 35,
+    "name": "Lanos"
+
+  },
+  {
+    "brand_id" : 35,
+    "name": "Leganza"
+
+  },
+  {
+    "brand_id" : 35,
+    "name": "Lublin"
+
+  },
+  {
+    "brand_id" : 35,
+    "name": "Matiz"
+
+  },
+  {
+    "brand_id" : 35,
+    "name": "Nexia"
+
+  },
+  {
+    "brand_id" : 35,
+    "name": "Nubira"
+
+  },
+  {
+    "brand_id" : 35,
+    "name": "Nubira kombi"
+
+  },
+  {
+    "brand_id" : 35,
+    "name": "Racer"
+
+  },
+  {
+    "brand_id" : 35,
+    "name": "Tacuma"
+
+  },
+  {
+    "brand_id" : 35,
+    "name": "Tico"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "1100"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "126"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "500"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "500L"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "500X"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "850"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Barchetta"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Brava"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Cinquecento"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Coupé"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Croma"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Doblo"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Doblo Cargo"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Doblo Cargo Combi"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Ducato"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Ducato Van"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Ducato Kombi"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Ducato Podvozok"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Florino"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Florino Combi"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Freemont"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Grande Punto"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Idea"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Linea"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Marea"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Marea Weekend"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Multipla"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Palio Weekend"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Panda"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Panda Van"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Punto"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Punto Cabriolet"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Punto Evo"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Punto Van"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Qubo"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Scudo"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Scudo Van"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Scudo Kombi"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Sedici"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Seicento"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Stilo"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Stilo Multiwagon"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Strada"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Talento"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Tipo"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Ulysse"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "Uno"
+
+  },
+  {
+    "brand_id" : 36,
+    "name": "X1/9"
+
+  },
+  {
+    "brand_id" : 37,
+    "name": "Cooper"
+
+  },
+  {
+    "brand_id" : 37,
+    "name": "Cooper Cabrio"
+
+  },
+  {
+    "brand_id" : 37,
+    "name": "Cooper Clubman"
+
+  },
+  {
+    "brand_id" : 37,
+    "name": "Cooper D"
+
+  },
+  {
+    "brand_id" : 37,
+    "name": "Cooper D Clubman"
+
+  },
+  {
+    "brand_id" : 37,
+    "name": "Cooper S"
+
+  },
+  {
+    "brand_id" : 37,
+    "name": "Cooper S Cabrio"
+
+  },
+  {
+    "brand_id" : 37,
+    "name": "Cooper S Clubman"
+
+  },
+  {
+    "brand_id" : 37,
+    "name": "Countryman"
+
+  },
+  {
+    "brand_id" : 37,
+    "name": "Mini One"
+
+  },
+  {
+    "brand_id" : 37,
+    "name": "One D"
+
+  },
+  {
+    "brand_id" : 38,
+    "name": "200"
+
+  },
+  {
+    "brand_id" : 38,
+    "name": "214"
+
+  },
+  {
+    "brand_id" : 38,
+    "name": "218"
+
+  },
+  {
+    "brand_id" : 38,
+    "name": "25"
+
+  },
+  {
+    "brand_id" : 38,
+    "name": "400"
+
+  },
+  {
+    "brand_id" : 38,
+    "name": "414"
+
+  },
+  {
+    "brand_id" : 38,
+    "name": "416"
+
+  },
+  {
+    "brand_id" : 38,
+    "name": "620"
+
+  },
+  {
+    "brand_id" : 38,
+    "name": "75"
+
+  },
+  {
+    "brand_id" : 39,
+    "name": "Cabrio"
+
+  },
+  {
+    "brand_id" : 39,
+    "name": "City-Coupé"
+
+  },
+  {
+    "brand_id" : 39,
+    "name": "Compact Pulse"
+
+  },
+  {
+    "brand_id" : 39,
+    "name": "Forfour"
+
+  },
+  {
+    "brand_id" : 39,
+    "name": "Fortwo cabrio"
+
+  },
+  {
+    "brand_id" : 39,
+    "name": "Fortwo coupé"
+
+  },
+  {
+    "brand_id" : 39,
+    "name": "Roadster"
+
+  }
+]
